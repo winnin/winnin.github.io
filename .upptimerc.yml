@@ -14,6 +14,7 @@ status-website:
   cname: status.winnin.com
   # baseUrl: /your-repo-name
   logoUrl: https://assets.website-files.com/600f14d617ea3d4f40ecfa21/600f14d617ea3d4769ecfc47_Logo%2520Winnin_Horizontal%2520Black-p-500.png
+  icon: https://insights.winnin.com/static/media/favicon.8204afb1.png
   name: Winnin
   introTitle: "**Winnin** uptime monitor and status page."
   introMessage: ""
