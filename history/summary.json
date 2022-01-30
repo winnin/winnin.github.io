@@ -4,7 +4,7 @@
     "url": "https://winnin.com",
     "icon": "https://favicons.githubusercontent.com/winnin.com",
     "slug": "winnin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,10 +12,12 @@
     "uptimeYear": "100.00%",
     "time": 364,
     "timeDay": 381,
-    "timeWeek": 361,
+    "timeWeek": 392,
     "timeMonth": 364,
     "timeYear": 364,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-30": 0
+    }
   },
   {
     "name": "Winnin Insights",
