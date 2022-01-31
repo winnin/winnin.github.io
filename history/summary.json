@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/winnin.com",
     "slug": "winnin",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 356,
-    "timeDay": 303,
-    "timeWeek": 373,
-    "timeMonth": 356,
-    "timeYear": 356,
-    "dailyMinutesDown": {
-      "2022-01-30": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 349,
+    "timeDay": 216,
+    "timeWeek": 386,
+    "timeMonth": 349,
+    "timeYear": 349,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Winnin Insights",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 403,
-    "timeWeek": 347,
-    "timeMonth": 298,
-    "timeYear": 298,
+    "time": 294,
+    "timeDay": 220,
+    "timeWeek": 340,
+    "timeMonth": 294,
+    "timeYear": 294,
     "dailyMinutesDown": {}
   }
 ]
